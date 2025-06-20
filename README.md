@@ -13,7 +13,7 @@ I’m a **Solutions Engineer** who builds custom solutions using modern develope
 - **Languages**: JavaScript • TypeScript  
 - **AI & Agents**: Workers AI • AutoRAG • AI Inference Pipelines  
 - **Security**: WAAP • Zero Trust • SASE • GitOps • IAM  
-- **Networking**: BGP • L3/L4 routing • Edge compute  
+- **Networking**: BGP • L3/L4 routing • VPC
 - **Performance**: Web optimization • Load reduction • Caching strategies  
 - **IaC & DevOps**: Terraform • GitHub Actions • CI/CD  
 
