@@ -7,7 +7,7 @@ I’m a **Solutions Engineer** who builds custom solutions using modern develope
 
 ## 🛠️ What I Work With
 
-- **3x CDN**: Akamai • AWS CloudFront • Cloudflare  
+- **3x CDN**: Cloudflare • AWS CloudFront • Akamai
 - **Serverless Platforms**: AWS Lambda • Cloudflare Workers  
 - **Database & Storage**: R2 • DynamoDB • S3 • Vector DBs  
 - **Languages**: JavaScript • TypeScript  
