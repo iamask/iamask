@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aj
+# 👋 Hello, I'm Ajay
 
 Welcome to my GitHub profile!  
 I’m a **Solutions Engineer** who builds custom solutions using modern developer platforms and edge-native technologies.
