@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ajay
 Welcome to my GitHub profile!  
-I'm a **CTO & Solutions Architect** ay **Nexarq.ai** building production-grade systems on edge-native, cloud, and AI platforms.
+I'm a **CTO & Solutions Architect** at **Nexarq.ai** building production-grade systems on edge-native, cloud, and AI platforms.
 
 ---
 
