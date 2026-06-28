@@ -1,51 +1,53 @@
 # 👋 Hello, I'm Ajay
-
 Welcome to my GitHub profile!  
-I’m a **Solutions Engineer** who builds custom solutions using modern developer platforms and edge-native technologies.
+I'm a **CTO & Solutions Architect** ay **Nexarq.ai** building production-grade systems on edge-native, cloud, and AI platforms.
 
 ---
 
 ## 🛠️ What I Work With
+- **CDN & Edge**: Cloudflare • AWS CloudFront • Akamai
+- **Cloud Platforms**: Azure • AWS • Cloudflare Workers
+- **Serverless**: AWS Lambda • Azure Functions • Cloudflare Workers
+- **Databases & Storage**: PostgreSQL • R2 • DynamoDB • S3 • Azure Blob • Vector DBs
+- **Languages**: JavaScript • TypeScript • Python
+- **AI & Agents**: Agentic Pipelines • MCP • AutoRAG • Workers AI • LLM Orchestration • Multi-Agent Systems
+- **Security**: WAAP • Zero Trust • SASE • GitOps • IAM • Azure AD • AWS IAM
+- **Networking**: BGP • L3/L4 routing • VPC • Azure VNet • AWS VPC • Hub-Spoke Topologies
+- **IaC & DevOps**: Terraform • GitHub Actions • CI/CD • Azure Pipelines
 
-- **3x CDN**: Cloudflare  • AWS CloudFront • Akamai
-- **Serverless Platforms**: AWS Lambda • Cloudflare Workers  
-- **Database & Storage**: R2 • DynamoDB • S3 • Vector DBs  
-- **Languages**: JavaScript • TypeScript  
-- **AI & Agents**: Workers AI • AutoRAG • AI Inference Pipelines  
-- **Security**: WAAP • Zero Trust • SASE • GitOps • IAM  
-- **Networking**: BGP • L3/L4 routing • VPC
-- **Performance**: Web optimization • Load reduction • Caching strategies  
-- **IaC & DevOps**: Terraform • GitHub Actions • CI/CD  
+---
+
+## ☁️ Cloud Stack
+
+### 🔵 Azure
+- **Compute**: Azure VMs • App Service • Azure Functions
+- **Networking**: VNet • Hub-Spoke • ExpressRoute • Private Endpoints
+- **Identity**: Azure AD / Entra ID • RBAC • Managed Identities
+- **Storage**: Azure Blob • Azure SQL • Cosmos DB
+- **AI**: Azure OpenAI • Azure AI Studio
+
+### 🟠 AWS
+- **Compute**: EC2 • Lambda • ECS
+- **Networking**: VPC • Route 53 • CloudFront • Transit Gateway
+- **Storage**: S3 • RDS • DynamoDB
+- **Identity**: IAM • Cognito • Organizations
+- **AI**: Bedrock • SageMaker
+
+---
+
+## 🤖 AI & Agents
+- **Agentic Systems**: Multi-agent architectures • Tool-use pipelines • MCP servers
+- **RAG**: AutoRAG • Vectorize • Custom retrieval pipelines
+- **Inference**: Workers AI • Azure OpenAI • Bedrock • Local LLMs
+- **Orchestration**: LangGraph-style flows • Event-driven agent triggers • Async job queues
 
 ---
 
 ## 🌩️ Cloudflare Developer Stack
-
-I build, break, and experiment using the full Cloudflare developer ecosystem:
-
-- **Workers** – Ultra-fast serverless functions at the edge  
-- **KV** – Key-value storage with global replication  
-- **Durable Objects** – Coordinated state at the edge  
-- **Queues** – Event processing for asynchronous workloads  
-- **R2** – S3-compatible object storage, no egress fees  
-- **D1** – SQL database built for edge applications  
-- **Workers AI** – AI inference at the edge with model hosting  
-- **AutoRAG** – Framework for Retrieval-Augmented Generation (RAG)  
-- **Vectorize** – Managed vector database with fast semantic search  
-- **Pipelines** – Large data processing & streaming workloads  
-- **Workflows** – Composable pipelines to orchestrate async jobs  
-- **Pages Functions** – API endpoints in static web projects  
-- **Access, Zero Trust** – Secure your services without VPN  
-- **Speed & WAAP** – Built-in performance & app-layer protection  
+- **Workers** • **KV** • **Durable Objects** • **Queues** • **R2** • **D1**
+- **Workers AI** • **AutoRAG** • **Vectorize** • **Pipelines** • **Workflows**
+- **Pages Functions** • **Access & Zero Trust** • **WAAP**
 
 ---
 
-## 🧪 For Fun: Cloud Projects
-
-I love building fun, quirky, and practical tools using Cloudflare's platform —  
-from AI-powered firewalls to edge analytics and event-driven bots.
-
----
-
-📫 **Let’s connect and build cool things.**  
 Thanks for dropping by!
