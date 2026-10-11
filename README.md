@@ -2,7 +2,7 @@
 
 
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=600&lines=ajay%40nexarq%3A~%24+whoami;CTO+%26+Co-founder+%40+Nexarq.ai;Edge+%7C+Agents+%7C+Multi-cloud)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=600&lines=ajay%40nexarq%3A~%24+whoami;CTO+%40+Nexarq.ai;Edge+%7C+Agents+%7C+Multi-cloud)
 
 
 
@@ -10,15 +10,7 @@
 
 ```console
 ajay@nexarq:~$ whoami
-Ajay — CTO & Co-founder, Nexarq.ai (Cloudflare + Azure partner)
-
-ajay@nexarq:~$ cat about.txt
-Production-grade edge-native, cloud and agentic AI systems for B2B clients in India.
-```
-
-```console
-ajay@nexarq:~$ ls stack/
-frontend/   cloudflare/   ai/   data/   cloud/   security/   devops/
+Ajay — CTO & Co-founder, Nexarq.ai
 ```
 
 ```console
@@ -41,12 +33,11 @@ ajay@nexarq:~$ cat stack/ai
 agentic   Multi-agent • tool-use pipelines • MCP servers
 rag       AutoRAG • Vectorize • custom retrieval
 models    Anthropic Claude • OpenAI • Workers AI • Azure OpenAI • Bedrock • local LLMs
-orchestr  Event-driven triggers • async queues • stateful agents on Durable Objects
 ```
 
 ```console
 ajay@nexarq:~$ cat stack/data
-PostgreSQL (self-hosted, streaming replication) • D1 (SQLite) • DynamoDB • S3 • R2 • Azure Blob • Cosmos DB • Vector DBs
+PostgreSQL • D1 (SQLite) • DynamoDB • S3 • R2 • Azure Blob • Cosmos DB • Vector DBs
 ```
 
 ```console
